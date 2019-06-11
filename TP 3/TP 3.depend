@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1529097394 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529097534 c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\funciones.h
+	"ArrayList.h"
+
+1527907687 c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\arraylist.h
+
+1529097556 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"ArrayList.h"
+	"funciones.h"
+	"validacion.h"
+	"paginaWeb.h"
+
+1529097978 c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\validacion.h
+	"validacion.h"
+	"funciones.h"
+
+1529097978 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validacion.h"
+	"funciones.h"
+
+1527907687 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\arraylist.a
+
+1529097703 source:c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\paginaweb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"paginaWeb.h"
+	"validacion.h"
+	"funciones.h"
+
+1529097446 c:\users\user\downloads\programacion\utn\programacion 1\workspace\tp 3\paginaweb.h
+	"funciones.h"
+
+1559575855 source:c:\users\user\downloads\programacion\git repositorios\c\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"ArrayList.h"
+	"funciones.h"
+	"validacion.h"
+	"paginaWeb.h"
+
+1527907687 c:\users\user\downloads\programacion\git repositorios\c\tp 3\arraylist.h
+
+1529097534 c:\users\user\downloads\programacion\git repositorios\c\tp 3\funciones.h
+	"ArrayList.h"
+
+1529097978 c:\users\user\downloads\programacion\git repositorios\c\tp 3\validacion.h
+	"validacion.h"
+	"funciones.h"
+
+1529097446 c:\users\user\downloads\programacion\git repositorios\c\tp 3\paginaweb.h
+	"funciones.h"
+
+1560267248 source:c:\users\user\downloads\programacion\git repositorios\c\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529097703 source:c:\users\user\downloads\programacion\git repositorios\c\tp 3\paginaweb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"paginaWeb.h"
+	"validacion.h"
+	"funciones.h"
+
+1559575965 source:c:\users\user\downloads\programacion\git repositorios\c\tp 3\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validacion.h"
+	"funciones.h"
+
