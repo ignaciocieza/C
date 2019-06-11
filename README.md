@@ -1,6 +1,6 @@
 # Proyecto en C
 
-### Aplicacion que permite generar una pagina web desde la consola.
+### Aplicación que permite generar una página web desde la consola.
 
 ##
 
